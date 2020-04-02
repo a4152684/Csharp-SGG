@@ -1,0 +1,11 @@
+D:\学习\学习文件\大地测量\作业3\作业3\bin\Debug\作业3.exe.config
+D:\学习\学习文件\大地测量\作业3\作业3\bin\Debug\作业3.exe
+D:\学习\学习文件\大地测量\作业3\作业3\bin\Debug\作业3.pdb
+D:\学习\学习文件\大地测量\作业3\作业3\obj\Debug\作业3.csprojAssemblyReference.cache
+D:\学习\学习文件\大地测量\作业3\作业3\obj\Debug\作业3.Properties.Resources.resources
+D:\学习\学习文件\大地测量\作业3\作业3\obj\Debug\作业3.csproj.GenerateResource.cache
+D:\学习\学习文件\大地测量\作业3\作业3\obj\Debug\作业3.csproj.CoreCompileInputs.cache
+D:\学习\学习文件\大地测量\作业3\作业3\obj\Debug\作业3.exe
+D:\学习\学习文件\大地测量\作业3\作业3\obj\Debug\作业3.pdb
+D:\学习\学习文件\大地测量\作业3\作业3\obj\Debug\作业3.Form0.resources
+D:\学习\学习文件\大地测量\作业3\作业3\obj\Debug\作业3.Form1.resources
