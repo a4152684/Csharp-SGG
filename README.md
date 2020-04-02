@@ -1,1 +1,1 @@
-This is a group assignment on the progress of “AI in public elective“ courses
+Some C# codes we create for A CONTEST
