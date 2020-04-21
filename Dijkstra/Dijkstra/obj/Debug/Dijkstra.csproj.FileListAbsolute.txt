@@ -1,0 +1,10 @@
+E:\Git\Csharp-SGG\Dijkstra\Dijkstra\bin\Debug\Dijkstra.exe.config
+E:\Git\Csharp-SGG\Dijkstra\Dijkstra\bin\Debug\Dijkstra.exe
+E:\Git\Csharp-SGG\Dijkstra\Dijkstra\bin\Debug\Dijkstra.pdb
+E:\Git\Csharp-SGG\Dijkstra\Dijkstra\obj\Debug\Dijkstra.csprojAssemblyReference.cache
+E:\Git\Csharp-SGG\Dijkstra\Dijkstra\obj\Debug\Dijkstra.Form1.resources
+E:\Git\Csharp-SGG\Dijkstra\Dijkstra\obj\Debug\Dijkstra.Properties.Resources.resources
+E:\Git\Csharp-SGG\Dijkstra\Dijkstra\obj\Debug\Dijkstra.csproj.GenerateResource.cache
+E:\Git\Csharp-SGG\Dijkstra\Dijkstra\obj\Debug\Dijkstra.csproj.CoreCompileInputs.cache
+E:\Git\Csharp-SGG\Dijkstra\Dijkstra\obj\Debug\Dijkstra.exe
+E:\Git\Csharp-SGG\Dijkstra\Dijkstra\obj\Debug\Dijkstra.pdb
