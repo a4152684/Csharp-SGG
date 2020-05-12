@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Itr8lwylV32aaDyov0hOSvwNZ8+WSxRgZPtiOFw8kZXymzdvoPMqE6Kt3acPmELljIkihElMyEK+yroJQ8p2Q==",
+  "success": true,
+  "projectFilePath": "E:\\Git\\Csharp-SGG\\file_deal\\file_deal\\file_deal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.3\\microsoft.netcore.app.runtime.win-x64.3.1.3.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.3\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.3.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.3\\microsoft.aspnetcore.app.runtime.win-x64.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

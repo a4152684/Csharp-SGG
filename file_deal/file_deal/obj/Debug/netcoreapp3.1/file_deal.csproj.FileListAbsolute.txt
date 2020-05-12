@@ -1,0 +1,13 @@
+E:\Git\Csharp-SGG\file_deal\file_deal\bin\Debug\netcoreapp3.1\file_deal.exe
+E:\Git\Csharp-SGG\file_deal\file_deal\bin\Debug\netcoreapp3.1\file_deal.deps.json
+E:\Git\Csharp-SGG\file_deal\file_deal\bin\Debug\netcoreapp3.1\file_deal.runtimeconfig.json
+E:\Git\Csharp-SGG\file_deal\file_deal\bin\Debug\netcoreapp3.1\file_deal.runtimeconfig.dev.json
+E:\Git\Csharp-SGG\file_deal\file_deal\bin\Debug\netcoreapp3.1\file_deal.dll
+E:\Git\Csharp-SGG\file_deal\file_deal\bin\Debug\netcoreapp3.1\file_deal.pdb
+E:\Git\Csharp-SGG\file_deal\file_deal\obj\Debug\netcoreapp3.1\file_deal.csprojAssemblyReference.cache
+E:\Git\Csharp-SGG\file_deal\file_deal\obj\Debug\netcoreapp3.1\file_deal.csproj.CoreCompileInputs.cache
+E:\Git\Csharp-SGG\file_deal\file_deal\obj\Debug\netcoreapp3.1\file_deal.AssemblyInfoInputs.cache
+E:\Git\Csharp-SGG\file_deal\file_deal\obj\Debug\netcoreapp3.1\file_deal.AssemblyInfo.cs
+E:\Git\Csharp-SGG\file_deal\file_deal\obj\Debug\netcoreapp3.1\file_deal.dll
+E:\Git\Csharp-SGG\file_deal\file_deal\obj\Debug\netcoreapp3.1\file_deal.pdb
+E:\Git\Csharp-SGG\file_deal\file_deal\obj\Debug\netcoreapp3.1\file_deal.genruntimeconfig.cache
