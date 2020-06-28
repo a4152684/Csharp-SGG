@@ -1,0 +1,13 @@
+E:\曹臻个人\专业课\数据库实习\程序\sql_deal\sql_deal\bin\Debug\netcoreapp3.1\sql_deal.exe
+E:\曹臻个人\专业课\数据库实习\程序\sql_deal\sql_deal\bin\Debug\netcoreapp3.1\sql_deal.deps.json
+E:\曹臻个人\专业课\数据库实习\程序\sql_deal\sql_deal\bin\Debug\netcoreapp3.1\sql_deal.runtimeconfig.json
+E:\曹臻个人\专业课\数据库实习\程序\sql_deal\sql_deal\bin\Debug\netcoreapp3.1\sql_deal.runtimeconfig.dev.json
+E:\曹臻个人\专业课\数据库实习\程序\sql_deal\sql_deal\bin\Debug\netcoreapp3.1\sql_deal.dll
+E:\曹臻个人\专业课\数据库实习\程序\sql_deal\sql_deal\bin\Debug\netcoreapp3.1\sql_deal.pdb
+E:\曹臻个人\专业课\数据库实习\程序\sql_deal\sql_deal\obj\Debug\netcoreapp3.1\sql_deal.csprojAssemblyReference.cache
+E:\曹臻个人\专业课\数据库实习\程序\sql_deal\sql_deal\obj\Debug\netcoreapp3.1\sql_deal.csproj.CoreCompileInputs.cache
+E:\曹臻个人\专业课\数据库实习\程序\sql_deal\sql_deal\obj\Debug\netcoreapp3.1\sql_deal.AssemblyInfoInputs.cache
+E:\曹臻个人\专业课\数据库实习\程序\sql_deal\sql_deal\obj\Debug\netcoreapp3.1\sql_deal.AssemblyInfo.cs
+E:\曹臻个人\专业课\数据库实习\程序\sql_deal\sql_deal\obj\Debug\netcoreapp3.1\sql_deal.dll
+E:\曹臻个人\专业课\数据库实习\程序\sql_deal\sql_deal\obj\Debug\netcoreapp3.1\sql_deal.pdb
+E:\曹臻个人\专业课\数据库实习\程序\sql_deal\sql_deal\obj\Debug\netcoreapp3.1\sql_deal.genruntimeconfig.cache
